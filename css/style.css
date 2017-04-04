@@ -12,8 +12,7 @@ body {
     font-weight: bold;
 }
 
-#pitch {
+.pitch {
     background-color: rgb(0,243,133);
-    margin-top: 140px;
-    width: 455px;
+ 
 }
