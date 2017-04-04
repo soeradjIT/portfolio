@@ -11,3 +11,9 @@ body {
     font-size: 50px !important;
     font-weight: bold;
 }
+
+#pitch {
+    background-color: rgb(0,243,133);
+    margin-top: 140px;
+    width: 455px;
+}
